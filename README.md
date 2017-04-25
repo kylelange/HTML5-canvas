@@ -1,15 +1,19 @@
-# _Title_
+# _HTML5 Canvas Screen_
 
-#### _{Description Here}, {DATE}_
+#### _JavaScript to help all the digital artists out there, March, 2017_
 
 #### By _**Kyle Lange**_
 
-![screenshot](Screen Shot.png)
+![screenshot](canvas-screen.png)
 
 
 ## Learnings
 
 * ES6 destructureing an array example: [var1, var2] = [value1, value2]
+
+* mousemove/up/down event emitters
+
+* canvas.getContext changes to modulate the color and strokeStyle (size)
 
 
 ## Setup/Installation Requirements
